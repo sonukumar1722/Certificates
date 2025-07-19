@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td style="padding: 0; margin: 0;"><img src="" alt="Certificate 3" width="450"></td>
-    <td style="padding: 0; margin: 0;"><img src="CS50 Certifications/CS50x.pdf" alt="Certificate 4" width="450"></td>
+    <td style="padding: 0; margin: 0;"></td>
   </tr>
 </table>
 
