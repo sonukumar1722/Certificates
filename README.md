@@ -51,22 +51,22 @@
 ## AWS CLoud Contribution
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="./AWS/Compute Services Overview AWS_page-0001.jpg" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="./AWS/Job Roles in Cloud AWS_page-0001.jpg" alt="Specialization certificate" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="AWS/Compute Services Overview AWS_page-0001.jpg" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="AWS/Job Roles in Cloud AWS_page-0001.jpg" alt="Specialization certificate" width="400"></td>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="./AWS/AWS Introduction to cloud Computing 101.png" alt="Specialization certificate" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="./AWS/AWS Getting Started with Compute.png" alt="Specialization certificate" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="./AWS/AWS Getting Started with Networking.png" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Introduction to cloud Computing 101.png" alt="Specialization certificate" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Compute.png" alt="Specialization certificate" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Networking.png" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Databases.png" alt="Specialization certificate" width="400"></td>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="./AWS/AWS Getting Started with Databases.png" alt="Specialization certificate" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="./AWS/AWS Getting Started with Serverless.png" alt="Specialization certificate" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="./AWS/AWS Getting Started with Storage.png" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Serverless.png" alt="Specialization certificate" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Storage.png" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Serverless.png" alt="Specialization certificate" width="400"></td>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="./AWS/AWS Getting Started with Serverless.png" alt="Specialization certificate" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="./AWS/AWS Getting Started with CloudOps.png" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with CloudOps.png" width="400"></td>
   </tr>
 </table>
 
