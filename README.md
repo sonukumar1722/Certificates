@@ -58,6 +58,7 @@
     <td style="padding: 0; margin: 0;"><img src="AWS/AWS Introduction to cloud Computing 101.png" alt="Specialization certificate" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Compute.png" alt="Specialization certificate" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Networking.png" width="400"></td>
+<<<<<<< HEAD
     <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Databases.png" alt="Specialization certificate" width="400"></td>
   </tr>
   <tr>
@@ -66,6 +67,16 @@
     <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Serverless.png" alt="Specialization certificate" width="400"></td>
   </tr>
   <tr>
+=======
+  </tr>
+  <tr>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Databases.png" alt="Specialization certificate" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Serverless.png" alt="Specialization certificate" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Storage.png" width="400"></td>
+  </tr>
+  <tr>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Serverless.png" alt="Specialization certificate" width="400"></td>
+>>>>>>> 8d61f4cdc05f103d5a1708333dfd87c34e241a4f
     <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with CloudOps.png" width="400"></td>
   </tr>
 </table>
