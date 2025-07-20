@@ -6,10 +6,12 @@
   <tr>
     <td style="padding: 0; margin: 0;"><img src="CS50 Certifications/CS50x_page-0001.jpg" alt="CS50x" width="450"></td>
     <td style="padding: 0; margin: 0;"><img src="" alt="CS50AI" width="450"></td>
-    <td style="padding: 0; margin: 0;"><img src="CS50 Certifications/CS50P- Introduction to Python Programming Harvard_page-0001.jpg" alt="CS50P" width="450"></td>
   </tr>
   <tr>
+    <td style="padding: 0; margin: 0;"><img src="CS50 Certifications/CS50P- Introduction to Python Programming Harvard_page-0001.jpg" alt="CS50P" width="450"></td>
     <td style="padding: 0; margin: 0;"><img src="CS50 Certifications/CS50 SQL_page-0001.jpg" alt="Certificate 3" width="450"></td>
+  </tr>
+  <tr>
     <td style="padding: 0; margin: 0;"><img src="" alt="CS50W" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="CS50 Certifications/CS50 Cybersecurity_page-0001.jpg" alt="CS50 CyberSecurity" width="400"></td>
   </tr>
@@ -21,10 +23,12 @@
   <tr>
     <td style="padding: 0; margin: 0;"><img src="DeepLearning AI/Introduction to TensorFlow for AI, ML, and Deep Learning  DeepLearningAI_page-0001.jpg" alt="AIML DeepLearningAI" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="IBM/IBM Deep Learning with Keras and tensorFlow Certificate (1)_page-0001.jpg" alt="DeepLearning IBM" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="IBM/Building Deep Learning Models with TensorFlow_page-0001.jpg" alt="Spec Cer" width="400"></td>
   </tr>
   <tr>
+    <td style="padding: 0; margin: 0;"><img src="IBM/Building Deep Learning Models with TensorFlow_page-0001.jpg" alt="Spec Cer" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="IBM/NLP - IBM_page-0001.jpg" alt="NLP" width="400"></td>
+  </tr>
+  <tr>
     <td style="padding: 0; margin: 0;"><img src="" alt="Certificate 1" width="410"></td>
   </tr>
 </table>
@@ -54,14 +58,14 @@
     <td style="padding: 0; margin: 0;"><img src="AWS/AWS Introduction to cloud Computing 101.png" alt="Specialization certificate" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Compute.png" alt="Specialization certificate" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Networking.png" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Databases.png" alt="Specialization certificate" width="400"></td>
   </tr>
   <tr>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Databases.png" alt="Specialization certificate" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Serverless.png" alt="Specialization certificate" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Storage.png" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Serverless.png" alt="Specialization certificate" width="400"></td>
   </tr>
   <tr>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with Serverless.png" alt="Specialization certificate" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="AWS/AWS Getting Started with CloudOps.png" width="400"></td>
   </tr>
 </table>
