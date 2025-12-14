@@ -20,7 +20,7 @@
 ## AWS Certifications
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="" alt="AWS Essentilas" width="450"></td>
+    <td style="padding: 0; margin: 0;"><img src="AWS/AWS Cloud Technical Essentials.pdf" alt="AWS Essentilas" width="450"></td>
     <td style="padding: 0; margin: 0;"><img src="" alt="" width="450"></td>
   </tr>
 </table>
